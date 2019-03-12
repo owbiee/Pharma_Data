@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaDataAPI", "PharmaData\PharmaDataAPI.csproj", "{3B366485-D35A-46CA-9A8B-C45D24BDDB05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaDataMVC", "PharmaDataMVC\PharmaDataMVC.csproj", "{788CBC96-A6F6-49CB-9A41-C2DBF81E3F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B366485-D35A-46CA-9A8B-C45D24BDDB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B366485-D35A-46CA-9A8B-C45D24BDDB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B366485-D35A-46CA-9A8B-C45D24BDDB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B366485-D35A-46CA-9A8B-C45D24BDDB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788CBC96-A6F6-49CB-9A41-C2DBF81E3F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788CBC96-A6F6-49CB-9A41-C2DBF81E3F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788CBC96-A6F6-49CB-9A41-C2DBF81E3F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788CBC96-A6F6-49CB-9A41-C2DBF81E3F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843637B0-9143-47CB-B5EB-3B86DD419CB1}
+	EndGlobalSection
+EndGlobal
